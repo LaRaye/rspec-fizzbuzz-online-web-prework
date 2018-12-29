@@ -1,4 +1,4 @@
-def fixxbuzz
+def fizzbuzz
 end
 
 
